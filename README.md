@@ -1,4 +1,4 @@
-# Consensus ADMM Algorithm for mMTC
+# Consensus ADMM Algorithm for mMTC Detection
  
 **This repository contains the code for the paper:**
 
